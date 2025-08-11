@@ -83,11 +83,5 @@ RESTful API Development • LangChain • Vertex AI • Data Visualization • T
 
 ---
 
-## 📊 GitHub Stats
-![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanbhatta&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanbhatta&layout=compact&theme=radical)  
-
----
-
 💡 *Open to Backend Developer roles, AI/ML collaboration, and innovative project opportunities.*  
 📩 **Let’s connect!** [LinkedIn](https://in/ayanbhattacharya789784) | [Portfolio](http://troyeeboutique.com/)  

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayan Bhattacharya  
 
-🚀 **Backend Developer | AI Enthusiast | Final-Year B.Tech (CSE)**  
+🚀 **Software Developer | AI Enthusiast | Final-Year B.Tech (CSE)**  
 📍 Bangalore Urban, Karnataka, India  
 📧 ayanb8127@gmail.com | 📱 +91 7897847714  
 🔗 [LinkedIn](https://in/ayanbhattacharya789784) 
@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a **final-year B.Tech CSE student** passionate about developing scalable and efficient **backend systems**.  
+I’m a **final-year B.Tech CSE student** passionate about developing scalable and efficient websites.  
 I specialize in **Java, Python, and Spring Boot**, building and deploying REST APIs, integrating databases, and developing AI-powered solutions.  
 I enjoy solving challenging problems, collaborating in agile environments, and learning new technologies.  
 
@@ -50,9 +50,15 @@ I enjoy solving challenging problems, collaborating in agile environments, and l
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Documents
 - **DSA with Java** — Apna College (2023)  
 - **Getting Started with Machine Learning Algorithms** — SimpliLearn (2023)  
+
+**Recommendations:**
+- [📝 Letter of Recommendation from Tapzy](https://github.com/ayanbhatta/ayanbhattacharya.github.io/blob/main/LOR.pdf)
+- [📄 View Certificate](https://github.com/ayanbhatta/ayanbhattacharya.github.io/blob/main/certificate.pdf)
+
+---
 
 ---
 

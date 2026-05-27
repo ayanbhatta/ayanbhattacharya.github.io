@@ -32,6 +32,17 @@ I enjoy solving challenging problems, collaborating in agile environments, and l
 
 ## 🚀 Featured Projects
 
+
+### 🔹 [Courier & Logistics Tracking System](https://github.com/ayanbhatta)
+
+*Mar 2026 – May 2026 | Java, Spring Boot, Spring Security, PostgreSQL, JPA/Hibernate, Maven*
+
+- Full-stack JEE REST API spanning 6+ entities (Customer, Warehouse, DeliveryAgent, Package, Payment, TrackingHistory) built using complete SDLC and Agile/Scrum practices.
+- Configured Spring Security with role-based access control (RBAC) for Admin, Customer, and Delivery Agent roles.
+- Implemented declarative transaction management with `@Transactional` to ensure consistency across multi-step shipment and payment flows.
+- Engineered relational data model using JPA/Hibernate with enum-based status tracking and full TrackingHistory logging.
+
+
 ### 🔹 [Smart Research Assistant](https://github.com/ayanbhatta/Research-Assistant-Extention)
 *Feb 2025 – Mar 2025 | Spring Boot, Spring AI*  
 - AI-powered application that retrieves relevant data and generates concise summaries.  

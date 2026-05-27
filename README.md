@@ -8,8 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a **final-year B.Tech CSE student** passionate about developing scalable and efficient websites.  
-I specialize in **Java, Python, and Spring Boot**, building and deploying REST APIs, integrating databases, and developing AI-powered solutions.  
+I'm a **B.Tech CSE graduate** (2025) passionate about building scalable backend systems.
 I enjoy solving challenging problems, collaborating in agile environments, and learning new technologies.  
 
 ---
